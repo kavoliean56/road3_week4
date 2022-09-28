@@ -1,0 +1,2 @@
+run = 'npm --prefix ./roadToWeb3_04 run dev'
+entrypoint = './roadToWeb3_04/pages/index.jsx'
